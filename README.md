@@ -1,2 +1,2 @@
 # morskoy_boy
-BattleShips game simulator
+Console BattleShips game simulator
